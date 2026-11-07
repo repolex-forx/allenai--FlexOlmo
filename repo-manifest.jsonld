@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/allenai/FlexOlmo/commit/65e9b46b43ecb6ae66995b9d97b375c4b4dfd70c",
       "git:hexsha": "65e9b46b43ecb6ae66995b9d97b375c4b4dfd70c",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
